@@ -1,0 +1,4 @@
+int newfunction()
+{
+    // do nothing
+}
